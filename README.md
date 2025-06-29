@@ -15,10 +15,11 @@
 
 ## 快速开始
 
-### 1. 安装依赖
+### 1. 启动
 
 ```bash
-npm install vue-router@4
+npm install # 安装依赖
+npm run dev # 启动项目
 ```
 
 ### 2. 配置路由
